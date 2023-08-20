@@ -1,2 +1,2 @@
 # Sentiment-Analysis-Anies2024
-Repository ini berisi proyek penelitian tentang analisis sentimen masyarakat terhadap elektabilitas Anies Baswedan sebagai calon presiden pada Pemilu 2024 di Twitter, menggunakan metode Naive Bayes dan SVM dengan implementasi Python.
+Repository ini berperan sebagai proyek penelitian yang fokus pada analisis sentimen masyarakat terkait elektabilitas Anies Baswedan sebagai calon presiden dalam Pemilu 2024 di Twitter. Metode Naive Bayes dan SVM diimplementasikan menggunakan bahasa pemrograman Python untuk mengolah data. Selain itu, penelitian ini menerapkan teknik data splitting dengan variasi persentase rasio pembagian data, memungkinkan eksplorasi yang lebih komprehensif.
